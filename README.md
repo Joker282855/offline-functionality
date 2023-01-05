@@ -13,14 +13,17 @@ Out assignment was to give offline functionality to a budget tracker app that on
 # Tasks Achieved By:
 The tasks were achieved by reading the getting start instructions which pointed me to what lessons in the modules I needed to review. The modules were able to give clear instructions in what to do to get everything working. The other thing that helped was adapting the steps in the modules to this project we had instead of copying the code straight from the modules.
 
-# Link to Deploye Applicaiton:
+# Link to Deployed Applicaiton:
 <a href="https://limitless-hollows-50105.herokuapp.com/">Link To Application</a>
 
 # Screenshot of Application:
 <img src="./public/images/IMG-1152.jpg" alt="Screenshot of Website" />
 
 # Packages Used:
-compression, express, morgan, and mongoose
+1. compression 
+2. express 
+3. morgan 
+4. mongoose
 
 # Contributors:
 Josh Jackson
